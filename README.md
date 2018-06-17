@@ -11,6 +11,7 @@
 [](http://www.hcoder.net/course/info_212.html)
 
 20180616 整理网盘视频资料，UE4的初级FPS教程5节课
+20180617 UE4暂时放一边，先速学html5的canvas的教程，背景滚动，玩家操作，发射子弹
 
 
 
